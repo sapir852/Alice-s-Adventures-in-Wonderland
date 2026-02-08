@@ -1,4 +1,4 @@
-# Alice’s Adventures in Wonderland 
+# Alice’s Adventures in Wonderland -3D
 
 This project is a 3D game inspired by *Alice in Wonderland*, created using **Unity** and programmed in **C#**.  
 The game includes two different worlds that the player can explore while controlling Alice.
